@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-image: url(../images/2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 1200px;
+}
+h1{
+    color:black;
+    text-align: center;
+    font-style: italic;
+}
+h2{
+    color:black;
+    text-align: center;
+    font-style: italic;
+}
+label{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+}
+#ma{
+    color:white;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+}
+#ch{
+    color: cornsilk;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.reg{
+    margin: auto;
+    width: 50%;
+    background-color: rgb(0,0,0,0.5);
+    padding: 15px;
+}
+.buttons{
+    padding: 20px;
+    padding-bottom: 15px;
+}
+#sign{
+    width: 250px;
+    outline: cadetblue;
+    padding: 5px;
+    font-size: 18px;
+    font-style: italic;
+    border-radius: 5px;
+    border: 3px solid;
+}
+#signup{
+    width: 250px;
+    outline: cadetblue;
+    padding: 5px;
+    float: right;
+    font-size: 18px;
+    font-style: italic;
+    border-radius: 5px;
+    border: 3px solid;
+}
+
+#reg{
+    margin: auto;
+    width: 50%;
+}
+#name{
+    width: 300px;
+    padding: 5px;
+    border: none;
+    outline: 0;
+    border-radius: 5px;
+    border: 3px solid;
+}
+#text{
+    
+    border: 3px solid;
+    padding: 5px;
+    border-radius: 5px;
+}
+#sub{
+    width: 300px;
+    padding: 5px;
+    border: none;
+    outline: 0;
+    border-radius: 5px;
+    border: 3px solid;
+    background-color: slategrey;
+    color: black;
+    font-size: 18px;
+    font-style: italic;
+}
