@@ -47,7 +47,10 @@ label{
     padding: 20px;
     padding-bottom: 15px;
 }
+.buttons a{
+    text-decoration: none;
 
+}
 
 #reg{
     margin: auto;
