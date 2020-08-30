@@ -47,25 +47,7 @@ label{
     padding: 20px;
     padding-bottom: 15px;
 }
-#sign{
-    width: 250px;
-    outline: cadetblue;
-    padding: 5px;
-    font-size: 18px;
-    font-style: italic;
-    border-radius: 5px;
-    border: 3px solid;
-}
-#signup{
-    width: 250px;
-    outline: cadetblue;
-    padding: 5px;
-    float: right;
-    font-size: 18px;
-    font-style: italic;
-    border-radius: 5px;
-    border: 3px solid;
-}
+
 
 #reg{
     margin: auto;
